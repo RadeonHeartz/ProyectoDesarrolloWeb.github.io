@@ -1,10 +1,13 @@
 *{
+    /* overflow: hidden; */
     box-sizing: border-box;
 }
 
 body {
     display: flex;
-    min-height: 100vh;
+    height: 100vh;
+    overflow: hidden;
+    margin-bottom: 0px;
 }
 
 .MenuToggle {
@@ -14,6 +17,8 @@ body {
 
     width: 70px;
     height: 100vh;
+    
+    margin-bottom:0px;
 
     background-color: wheat;
     display: flex;
