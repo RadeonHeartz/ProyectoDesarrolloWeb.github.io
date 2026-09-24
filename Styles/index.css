@@ -85,7 +85,7 @@ main {
 
 .MenuToggle:hover #logoimg {
     width: 200px;
-    height: 120px;
+    height: 200px;
 }
 #logoimg {
     transition: width 0.35s ease, height 0.35s ease;
